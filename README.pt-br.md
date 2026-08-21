@@ -40,6 +40,14 @@
   </a>
 </p>
 
+### 🤝 Contribuidor
+
+<p>
+  <a href="https://propokerplan.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ProPokerPlan-Contribuidor-000000?style=for-the-badge&logo=poker&logoColor=white" alt="ProPokerPlan" />
+  </a>
+</p>
+
 ### Linguagens
 
 <p>
