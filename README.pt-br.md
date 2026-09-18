@@ -38,6 +38,9 @@
   <a href="https://github.com/gdakuzak/mtu" target="_blank">
     <img src="https://img.shields.io/badge/mtu-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="mtu" />
   </a>
+  <a href="https://github.com/gdakuzak/spec-kit-preset-db-standards" target="_blank">
+    <img src="https://img.shields.io/badge/spec--kit--preset--db--standards-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="spec-kit-preset-db-standards" />
+  </a>
 </p>
 
 ### 🤝 Contribuidor
