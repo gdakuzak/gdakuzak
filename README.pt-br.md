@@ -51,6 +51,17 @@
   </a>
 </p>
 
+### 🍴 Forks
+
+<p>
+  <a href="https://github.com/gdakuzak/wcag-audit-claude-skill" target="_blank">
+    <img src="https://img.shields.io/badge/wcag--audit--claude--skill-Fork-181717?style=for-the-badge&logo=github&logoColor=white" alt="wcag-audit-claude-skill" />
+  </a>
+  <a href="https://github.com/gdakuzak/sast-skills" target="_blank">
+    <img src="https://img.shields.io/badge/sast--skills-Fork-181717?style=for-the-badge&logo=github&logoColor=white" alt="sast-skills" />
+  </a>
+</p>
+
 ### Linguagens
 
 <p>
